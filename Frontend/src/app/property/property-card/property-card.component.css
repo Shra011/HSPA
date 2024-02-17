@@ -1,0 +1,11 @@
+.propImg{
+    height: 250px;
+    padding: 5px;
+    background-color: teal;
+}
+.row{
+    border: 2px solid;
+}
+.shadow-lg{
+    border:1px solid blue;
+}
